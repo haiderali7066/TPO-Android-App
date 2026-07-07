@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Beautiful Centered Soft Pink Heart Silhouette for the Period & Ovulation Tracker App Icon -->
+    <path
+        android:fillColor="#EC407A"
+        android:pathData="M54,34 C42,16 22,28 22,48 C22,68 54,88 54,88 C54,88 86,68 86,48 C86,28 66,16 54,34 Z" />
+    <path
+        android:fillColor="#AB47BC"
+        android:pathData="M54,42 C48,30 34,38 34,50 C34,62 54,74 54,74 C54,74 74,62 74,50 C74,38 60,30 54,42 Z"
+        android:fillAlpha="0.4" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "TPO",
+  "description": "TPO (Track Period & Ovulation) is a complete offline period and ovulation tracker featuring a modern Material 3 design, calendar insights, cycle log history, and automated notification reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

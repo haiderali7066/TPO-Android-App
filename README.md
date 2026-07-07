@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="/tpo.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://chatgpt.com/s/m_6a4c4e69967881919f35d140f0edddd6" />
 </div>
 
 # TPO – Track Period & Ovulation
